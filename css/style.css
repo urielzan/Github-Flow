@@ -3,7 +3,7 @@
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row;
-	align-items: baseline; /* CHANGE this line */
+	align-items: basecenter; /* CHANGE this line */
 }
 
 .grid {
@@ -16,7 +16,7 @@
 }
 
 .grid__item-1 {
-	font-size: 30px;
+	font-size: 40px;
 	background-color: #EF5350;
 }
 .grid__item-2 {
